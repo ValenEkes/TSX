@@ -1,7 +1,7 @@
-h2{
+.Texto h2{
     font-family:  monospace;
 }
-p{
+.Texto p{
     font-family: "Courier New", monospace;
     color:rgb(104, 84, 54)
 }
